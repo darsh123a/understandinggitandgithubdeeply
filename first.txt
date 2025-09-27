@@ -1,2 +1,6 @@
 first line of change
  secod change in the file
+third line
+ added a line from the master 
+
+added a line from dark-mode
